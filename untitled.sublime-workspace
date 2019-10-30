@@ -1,0 +1,301 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"com",
+				"Column"
+			],
+			[
+				"res",
+				"reversed\tclass"
+			],
+			[
+				"bas",
+				"BaseEntity"
+			],
+			[
+				"d",
+				"db"
+			],
+			[
+				"in",
+				"instance_id\tstatement"
+			],
+			[
+				"re",
+				"resultset"
+			],
+			[
+				"cl",
+				"client\tstatement"
+			],
+			[
+				"Re",
+				"ResultSet\tmodule"
+			],
+			[
+				"dum",
+				"dumps\tfunction"
+			],
+			[
+				"Ma",
+				"MarkdownEditing"
+			],
+			[
+				"tim",
+				"timedelta\tclass"
+			],
+			[
+				"da",
+				"date_time\tparam"
+			],
+			[
+				"t",
+				"timedelta〔class〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Enable Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 269.0,
+		"history":
+		[
+			"os.listdir()",
+			"dir(os)",
+			"os.platform()",
+			"import os",
+			"helllo"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/johntoms/github/YongLeKing"
+	],
+	"file_history":
+	[
+		"/Users/johntoms/sublime/data/office-logs/developer——env_dev.sh",
+		"/Users/johntoms/sublime/data/office-logs/report/mysql_variables.txt",
+		"/Users/johntoms/sublime/data/office-logs/install_python3.sh",
+		"/Users/johntoms/sublime/data/office-logs/Dockerfile",
+		"/Users/johntoms/sublime/data/office-logs/20190823.md",
+		"/Users/johntoms/sublime/data/office-logs/20190829.md",
+		"/Users/johntoms/sublime/data/office-logs/20190902.md",
+		"/Users/johntoms/sublime/data/office-logs/tmp_config",
+		"/Users/johntoms/sublime/data/office-logs/test.py",
+		"/Users/johntoms/sublime/data/office-logs/alpha/index.js",
+		"/Users/johntoms/sublime/data/office-logs/alpha/index.css",
+		"/Users/johntoms/sublime/data/office-logs/20190819.md",
+		"/Users/johntoms/sublime/data/office-logs/alpha/index.html",
+		"/Users/johntoms/sublime/data/office-logs/alpha.html",
+		"/Users/johntoms/sublime/data/office-logs/20190816.md",
+		"/Users/johntoms/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Default (OSX).sublime-keymap",
+		"/Users/johntoms/Library/Application Support/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/Users/johntoms/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/README.md",
+		"/Users/johntoms/Library/Application Support/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+		"/Users/johntoms/Library/Application Support/Sublime Text 3/Packages/User/Pretty JSON.sublime-settings",
+		"/Users/johntoms/Library/Application Support/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/Users/johntoms/sublime/data/daring-using/test.md",
+		"/Users/johntoms/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/johntoms/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/johntoms/Library/Application Support/Sublime Text 3/Packages/JsFormat/Default (OSX).sublime-keymap",
+		"/Users/johntoms/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/johntoms/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/johntoms/sublime/data/usually-python-models/date.py",
+		"/Users/johntoms/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/johntoms/sublime/data/study-vue/vue.js 安装.md",
+		"/Users/johntoms/sublime/data/daring-using/sublime 常用操作.md",
+		"/Users/johntoms/sublime/data/daring-using/Sublime快速选择列块的操作.md",
+		"/Users/johntoms/sublime/data/daring-using/user_create.json",
+		"/Users/johntoms/sublime/data/daring-using/jetbrains破解.md",
+		"/Users/johntoms/sublime/data/test.md",
+		"/Users/johntoms/Library/Application Support/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/Users/johntoms/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/johntoms/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/johntoms/Desktop/工作/月报/devops-月报.md",
+		"/Users/johntoms/sublime/data/alpha/style.css",
+		"/Users/johntoms/sublime/data/alpha/app.js",
+		"/Users/johntoms/sublime/data/index.html",
+		"/Users/johntoms/sublime/data/alpha/index.html",
+		"/Users/johntoms/sublime/data/untitled.json",
+		"/Users/johntoms/api 问题调研.md",
+		"/Users/johntoms/1563869400000.json",
+		"/Users/johntoms/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/Default (OSX).sublime-keymap",
+		"/Users/johntoms/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 124.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
