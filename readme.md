@@ -13,7 +13,7 @@
 
 ## 永乐大帝的靓照
 > 图片来源于 [百度百科](https://baike.baidu.com/item/%E6%9D%8E%E6%B0%B8%E4%B9%90/1302180?fr=aladdin)
-![李永乐1](pictures/李永乐1.png)
-![李永乐2](pictures/李永乐2.png)
+![liyongle1](pictures/liyongle1.png)
+![liyongle2](pictures/liyongle2.png)
 
 
